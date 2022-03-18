@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassan
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning computer science in cairo university 
+- 🌱 I’m currently studying computer science in cairo university 
 - contact me on hassanmagdi906@gmail.com
 
 <!---
