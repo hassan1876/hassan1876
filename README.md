@@ -9,7 +9,7 @@ Check out my [LeetCode profile](https://leetcode.com/u/hassan_9066/) to see my p
 
 ## 🛠️ Skills & Tools  
 - Languages: C++ , Java , Python , Javascript
-- Frameworks & Libraries: Spring boot , Flutter , Django
+- Frameworks & Libraries: Spring boot , Flutter , Django,nodejs
 - Tools & Platforms: Git , Docker
 
 
